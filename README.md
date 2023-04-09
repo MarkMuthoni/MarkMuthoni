@@ -1,8 +1,7 @@
 - 👋 Hi, I’m MarkMuthoni
-- 👀 I’m interested in python development and data analysis
-- 🌱 I’m currently learning Flask web development framework
-- 💞️ I’m looking to collaborate on web development
-- 📫 reach me through; email: muthonimarkkariuki@gmail.com
+- I am a web developer,
+skills
+Python, Flask, Javascript, bootstrap, html, css, google APIs and Twilio API
 
 <!---
 MarkMuthoni/MarkMuthoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
