@@ -1,7 +1,5 @@
 - 👋 Hi, I’m MarkMuthoni
-- I am a web developer,
-skills
-Python, Flask, Javascript, bootstrap, html, css, google APIs and Twilio API
+- Shall we?
 
 <!---
 MarkMuthoni/MarkMuthoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
